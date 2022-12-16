@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
 @font-face {
   font-family: "Lato";
   src: url("../fonts/Lato-Light.eot");
@@ -163,16 +164,16 @@ body._lock {
 }
 
 h1 {
-  font-size: 35px;
-  font-weight: 500;
-  line-height: 132%;
-  line-height: 38px;
+  font-size: 60px;
+  line-height: 101.6666666667%;
+  font-weight: 700;
 }
 
 h2 {
-  font-size: 32px;
-  font-weight: 500;
-  line-height: 38px;
+  font-family: "PT Sans Caption" serif;
+  font-size: 41px;
+  line-height: 120%;
+  font-weight: 700;
 }
 
 h3 {
